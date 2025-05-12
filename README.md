@@ -1,4 +1,4 @@
-# Final Project - College-Value-Analysis  
+# Final Project - College Value Analysis  
   
 ### Pupose  
 To provide personalized insight into the financial value of U.S. colleges and universities.  
