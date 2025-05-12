@@ -16,7 +16,7 @@ The US Department of Education collects statistics for all US-based post-seconda
 
 ### Supporting Document(s)
 * README.md - This file, used to navigate the GitHub repository. Includes purpose, background, index and description of files, prerequisites, etc.  
-* Summary.md - A single page summary overview of the findings of the  analysis. 
+* SUMMARY.md - A single page summary overview of the findings of the  analysis. 
 * Final Project - College Value.pptx - PowerPoint presentation of the study and its findings. Contained in a 'Final Project - College Value.zip' file which must be downloaded and extracted. 
 
 ### Prerequisites
