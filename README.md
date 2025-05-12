@@ -31,7 +31,7 @@ This analysis is performed in either Jupyter Lab or Jupyter Notebook, which must
 * sklearn  
 * warnings
 
-The following files must all be collocated in the same directory for execution:
+The following files must all be collocated in the same directory to execute the code:
 * College Value.ipynb
 * Most-Recent_Cohorts-Institution.csv
 * Student Info.xlsx
