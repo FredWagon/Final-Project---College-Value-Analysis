@@ -1,4 +1,5 @@
-# Final Project - College Value Analysis  
+# README
+### Final Project - College Value Analysis  
   
 ### Purpose  
 To provide personalized insight into the financial value of U.S. colleges and universities.  
