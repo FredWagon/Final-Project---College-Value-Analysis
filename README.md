@@ -11,10 +11,10 @@ The US Department of Education collects statistics for all US-based post-seconda
 
 ### Data File(s)
 * Most-Recent_Cohorts-Institution.csv - The most recent College Scorecard Institutional data for all post-secondary educational institutions receiving funding from the U.S. Department of Education. Contained in the Most-Recent-Cohorts_Institution.zip file that must be downloaded and extracted. The source of this data is: https://collegescorecard.ed.gov/data/.
-* Student Info.xlsx - An Excel spreadsheet template for inputing personal data to be in analysis with College Scorecard data. Pre-populated with the personal information (state of residence, housing preference, college list) of a test subject. 
+* Student Info.xlsx - An Excel spreadsheet template for inputting personal data to be analyzed with College Scorecard data. Pre-populated with the personal information (state of residence, housing preference, college list) of a test subject. 
 
 ### Supporting Document(s)
-* README.md - This file, used to navigate this particular GitHub repository. Includes purpose, background, index and description of files, prerequisites, etc.  
+* README.md - This file, used to navigate the GitHub repository. Includes purpose, background, index and description of files, prerequisites, etc.  
 * Summary.md - A single page summary overview of the findings of the  analysis. 
 * Final Project - College Value.pptx - PowerPoint presentation of the study and its findings. Contained in a 'Final Project - College Value.zip' file which must be downloaded and extracted. 
 
