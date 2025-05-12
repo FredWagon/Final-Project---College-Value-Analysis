@@ -1,6 +1,6 @@
 # Final Project - College Value Analysis  
   
-### Pupose  
+### Purpose  
 To provide personalized insight into the financial value of U.S. colleges and universities.  
   
 ### Background
@@ -38,36 +38,3 @@ The following files must all be collocated in the same directory to execute the 
 
 To perform the analysis with your own personal data, you must fill in the 'Student Info.xlsx' with your data prior to executing.
 
-### Questions:
-The following questions are answered in this study:
-1. How does the cost of a college affect such things as admission rate, test scores, region, locale or institutional control?
-2. How does the median earnings of a college affect such things as admission rate, test scores, region, locale or institutional control?
-3. How do colleges (considered, applied to or admitted to) compare based on cost vs. potential earnings?
-4. What is the payback period for colleges (considered, applied to or admitted to)?
-5. What are the projected earnings of a college (considered, applied to or  admitted to) after a 40-year career?
-
-### Results
-
-##### General
-The Higher the Cost of the Institution:
-* The Lower the Admission Rate
-* The Higher the Test Scores
-* The Higher the Median Earnings
-
-New England is clearly the Highest Cost Region with barely the Highest Median Earnings.
-
-Outlying Areas have the Lowest Cost and Lowest Median Earnings.
-
-US Service Schools are Unique (NO costs, high and predictable earnings, high test scores and low admission rates). 
-
-Private Non-Profit Institutions have Higher Costs while Earnings are NOT discernible from other Institutional Controls.
-
-Private For-Profit Institutions have Lower Costs while Earnings are NOT discernible from other Institutional Controls.
-
-Earnings over a 40-years are a Much Stronger Consideration than 4-year Costs.
-
-##### Client Test Case:
-For the student information used in our test case:
-* All of the student’s considered schools are above average at their given cost point (good value)!
-* The best value in terms of initial investment and payback period appears to be RPI for this student.
-* The best long-term value (over a 40-year career) appears to be MIT.
