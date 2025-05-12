@@ -36,7 +36,7 @@ The following files must all be collocated in the same directory to execute the 
 * Most-Recent_Cohorts-Institution.csv
 * Student Info.xlsx
 
-To perform the analysis with your own personal data, you must fill in the 'Student Info.xlsx' with your information prior to executing the 'College Value.ipynb' code.
+To perform the analysis with your own personal data, you must fill in the 'Student Info.xlsx' with your data prior to executing.
 
 ### Questions:
 The following questions are answered in this study:
