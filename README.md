@@ -4,7 +4,7 @@
 To provide personalized insight into the financial value of U.S. colleges and universities.  
   
 ### Background
-The US Department of Education collects statistics for all US-based post-secondary educational institutions that receive government funding. This data is coalesced in the College Score Card and includes, among other things, data relating to costs, median earnings after graduation, test scores and admission rates. The premise is to use this data along with a client student's personal information and college list, to provide some guidance on the financial value (cost vs. earnings) for institutions they are considering for their college education.  
+The US Department of Education collects statistics for all US-based post-secondary educational institutions that receive government funding. This data is coalesced in the College Score Card and includes, among other things, data relating to costs, median earnings after graduation, test scores and admission rates. The premise of this study is to use this data along with a student's personal information and college list, to provide some insight on the financial value (cost vs. earnings) for institutions they are considering.  
   
 ### Code File(s)
 * College Value.ipynb - Python Notebook file containing the code for this analysis.  
