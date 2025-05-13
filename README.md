@@ -15,9 +15,9 @@ The US Department of Education collects statistics for all US-based post-seconda
 * Student Info.xlsx - An Excel spreadsheet template for inputting personal data to be analyzed with College Scorecard data. Pre-populated with the personal information (state of residence, housing preference, college list) of a test subject. 
 
 ### Supporting Document(s)
-* README.md - This file, used to navigate the GitHub repository. Includes purpose, background, index and description of files, prerequisites, etc.  
-* SUMMARY.md - A single page summary overview of the findings of the  analysis. 
-* Presentation - College Value.pptx - PowerPoint presentation of the study and its findings. Contained in a 'Presentation - College Value.zip' file which must be downloaded and extracted. 
+* README.md - Used to navigate the GitHub repository. Includes purpose, background, index and description of files, prerequisites, etc.  
+* SUMMARY.md - A single page summary of analysis & findings. 
+* Presentation - College Value.pptx - PowerPoint presentation detailing the study and its findings. Contained in a 'Presentation - College Value.zip' file which must be downloaded and extracted. 
 
 ### Prerequisites
 This analysis is performed in either Jupyter Lab or Jupyter Notebook, which must be installed on your computer to run. The code uses the following libraries which must also be installed in your environment:  
